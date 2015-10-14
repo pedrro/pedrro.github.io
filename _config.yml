@@ -1,0 +1,42 @@
+name: Psilva 
+description: Sobre qualidade de software e a vida!
+meta_description: "Testes, Qualidade de Software, Agile"
+
+aboutPage: true
+
+markdown: redcarpet
+highlighter: pygments
+
+paginate: 20
+baseurl: /
+domain_name: 'http://http://pedrro.github.io'
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: false
+disqus_shortname: 'psilva'
+
+# Details for the RSS feed generator
+url:            'http://psilva.github.io'
+author:         'Pedro Silva'
+authorTwitter:  'pedrohns_'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
