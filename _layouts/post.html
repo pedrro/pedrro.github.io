@@ -1,5 +1,6 @@
 ---
 layout: default
+disqus: true
 archive: true
 ---
 
@@ -27,9 +28,9 @@ archive: true
 </footer>
 
 <!-- Disqus comments -->
-{% if site.disqus %}
+{% if page.disqus %}
     <div class="archive readmore">
-        <h3>Comments</h3>
+        <h3>Commentários</h3>
         {% include disqus.html %}
     </div>
 {% endif %}

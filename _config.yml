@@ -11,7 +11,7 @@ paginate: 20
 baseurl: /
 domain_name: 'http://http://pedrro.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
+disqus: true
 disqus_shortname: 'psilva'
 
 # Details for the RSS feed generator
