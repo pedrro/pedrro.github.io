@@ -9,13 +9,13 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://http://pedrro.github.io'
+domain_name: 'http://pedrro.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: true
-disqus_shortname: 'psilva'
+disqus_shortname: 'pedrro'
 
 # Details for the RSS feed generator
-url:            'http://psilva.github.io'
+url:            'http://pedrro.github.io'
 author:         'Pedro Silva'
 authorTwitter:  'pedrohns_'
 
