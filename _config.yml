@@ -1,4 +1,4 @@
-name: Psilva 
+name: Psilva
 description: Sobre qualidade de software e a vida!
 meta_description: "Testes, Qualidade de Software, Agile"
 
@@ -10,7 +10,7 @@ highlighter: pygments
 paginate: 20
 baseurl: /
 domain_name: 'http://pedrro.github.io'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-70316402-1'
 disqus: true
 disqus_shortname: 'pedrro'
 
