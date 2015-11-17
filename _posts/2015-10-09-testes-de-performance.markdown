@@ -1,7 +1,7 @@
 ---
 title:  "Testes de Performance"
 description: Uma breve introdução sobre Testes de Performance e como ele é útil para o nosso sistema.
-## date: add a date when publishing
+date: 2015-10-09
 ---
 
 Essa semana aprendi um pouco sobre testes de performance, que até então, eu não sabia NA-DA. Nesse post, irei falar sobre o que é o teste de performance, tipos e ferramentas, beleza?
@@ -9,7 +9,7 @@ Essa semana aprendi um pouco sobre testes de performance, que até então, eu n�
 ## Testes de performance, o que é?
 
 Testes de performance, tem como objetivo, avaliar como o seu sistema se comporta em diversas situações, por exemplo:
->Em uma situação de stress, o seu sistema irá ser avaliado durante algum tempo com uma alta carga de request que seu sistema não está acostumado a receber. 
+>Em uma situação de stress, o seu sistema irá ser avaliado durante algum tempo com uma alta carga de request que seu sistema não está acostumado a receber.
 
 Isso é muito legal, porque me faz pensar, quantas vezes estamos realmente pensando na performance do sistema durante o seu desenvolvimento? Quase nunca, mas, todos devemos ter esse pensamento, pois a performance do seu sistema vai impactar para o usuário final, que vai impactar para a avaliação do seu sistema e vai impactar em como as pessoas olham para o seu trabalho e quando você se der conta, que o cuidado com a performance do sistema não foi levado em consideração, já vai ser tarde demais e acabará se tornando um snowball sem fim, OMG!
 
